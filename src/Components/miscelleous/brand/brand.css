@@ -1,0 +1,49 @@
+.brand{
+    display: inline-block;
+    background-color: #302c2ce8;
+    opacity: 0;
+    z-index:50;
+    border:1px solid #302c2c9f;
+    height: 0;
+    width: 0;
+    padding:20px 60px;
+    overflow: hidden;
+    border-radius: 250px;
+    margin-top:12vh;
+     
+    transition: all 0.2s ease-in-out; 
+}
+
+.show{
+    opacity: 0.9;
+    transform: translateX(100);
+    height: auto;
+    width: auto;
+}
+@keyframes show{
+    0%{opacity:0;height:0;width:0}
+    25%{opacity: 0.3;height:700px;width:40px}
+    50%{opacity: 0.6;height: 100px;width:60px}
+    100%{opacity: 0.9;height:auto;width:auto}
+}
+
+
+@media screen and (max-width:550px){
+  
+    .brand img{
+        margin-top:30px;
+    }
+}
+.brand img{
+    height:400px;
+    width: 600px;
+    padding-top:90px;
+    display: inline-block;
+}
+.image-container{
+    margin: -100px;
+    padding:0;
+    height:500px;
+    display:block;
+    width:700px;
+}
