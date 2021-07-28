@@ -1,5 +1,5 @@
 # RestaurantWebApp
-This is my first we application made with ReactJs and Firebase!
+This is my first web application made with ReactJs and Firebase!
 <hr/>
 <h2> Structure </h2>
 <ul>
@@ -29,4 +29,5 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
+
 
