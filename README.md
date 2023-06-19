@@ -12,8 +12,6 @@ This is my first web application made with ReactJs and Firebase!
   <li> Routing made with <b>React Router</b> </li>
  </ul>
 
-To make changes on the menu you simply need to make changes on the database.
-
 ## Available Scripts
 
 In the project directory, you can run:
