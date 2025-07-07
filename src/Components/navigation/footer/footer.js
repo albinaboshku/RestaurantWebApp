@@ -36,7 +36,7 @@ const footer = () => {
               Adresa: Rruga e Kavajës, Kompleksi "Delijorgji", Tiranë <br />{" "}
               Porosit në: 069 4884 550, 0424 22 222 <br />
               &copy;
-              {currentYear} Albina Boshku.
+              {currentYear} Ergi Kerci.
               <br />
               <br />
             </p>
